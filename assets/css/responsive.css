@@ -1,0 +1,1468 @@
+/* Normal desktop :1700px. */
+@media (min-width: 1500px) and (max-width: 1700px) {
+
+}
+/* Normal desktop :1300px. */
+@media (min-width: 1300px) and (max-width: 1499px) {
+
+}
+
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1299px) {
+
+.hero-content {
+    right: -30px;
+}
+.hero-right-thumb {
+    left: -15px;
+}
+.hero-title h1 {
+    font-size: 62px;
+}
+.about-right-thumb {
+    right: 0;
+}
+.about-left-thumb {
+    position: absolute;
+    bottom: -50px;
+    right: 25px;
+    z-index: -1;
+}
+@keyframes offer-up-down{
+  0% { left:-30px; top:170px;}
+  100% { left:-30px; top:188px;}
+}
+.brand-area {
+    width: 1140px;
+}
+.contact-address {
+    padding: 70px 0px 35px 25px;
+}
+
+
+
+}
+/* Normal desktop :1170px. */
+@media (min-width: 1170px) and (max-width: 1199px) {
+
+.zomia_menu > ul > li > a {
+    margin: 36px 8px;
+    font-size: 17px;
+}
+.header-donate-btn a.header-btn {
+    padding: 9px 32px;
+}
+.search-box-btn.search-box-outer {
+    margin-right: 8px;
+}
+.header-donate-btn a {
+    font-size: 16px;
+}
+.hero-section-left {
+    position: relative;
+    left: -70px;
+}
+.hero-thumb2 {
+    right: 0;
+}
+.hero-content {
+    position: relative;
+    right: -60px;
+}
+.hero-title h1 {
+    font-size: 52px;
+}
+.hero-right-thumb {
+    left: 0;
+}
+.hero-form-field input {
+    padding: 5px 195px 5px 20px;
+}
+.hero-right-thumb {
+    top: -175px;
+}
+.service-area .section-description p {
+    width: 66%;
+}
+.section-description p {
+    width: 55%;
+}
+.about-right-thumb {
+    right: -30px;
+}
+.about-left-thumb {
+    right: 0;
+    bottom: 0;
+}
+@keyframes offer-up-down{
+  0% { left:0px; top:170px;}
+  100% { left:0px; top:188px;}
+}
+.brand-area {
+    width: 1100px;
+}
+.widge-link ul li {
+    margin-bottom: 11px;
+}
+/* working-area-start */
+.work-title-shape-thumb1 {
+    position: absolute;
+    left: 83px;
+    bottom: -52px;
+}
+.work-title-shape-thumb2 {
+    position: absolute;
+    right: 80px;
+    bottom: -106px;
+}
+.portfolio-area .section-description p {
+    width: 50%;
+}
+/* testimonial-area-start */
+.testi-content p {
+    font-size: 15px;
+}
+/* blog-area-start */
+.blog-area .section-description p {
+    width: 55%;
+}
+.blog-list-left input[type="email"] {
+    width: 71% !important;
+}
+/* contact area start */
+.contact-address {
+    padding: 70px 0px 35px 20px;
+}
+.contact-icon i {
+    font-size: 35px;
+    height: 42px;
+    width: 42px;
+    padding-right: 10px;
+}
+.contact-inner .description p {
+    font-size: 15px;
+}
+
+}
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1169px) {
+/* header menu */
+.header-donate-btn a.header-btn {
+    padding: 8px 32px;
+}
+.header-donate-btn a {
+    font-size: 15px;
+}	
+.zomia_menu > ul > li > a {
+    margin: 36px 7px;
+    font-size: 17px;
+}
+.search-box-btn.search-box-outer {
+    margin-right: 8px;
+}
+/* hero-section */
+.hero-title h1 {
+    font-size: 50px;
+}
+.hero-content {
+    right: -20px;
+}
+.hero-right-thumb {
+    position: absolute;
+    top: -180px;
+    left: -10px;
+}
+.hero-thumb2 {
+    right: 40px;
+}
+/* service area start */
+.section-main-title h1 {
+    font-size: 38px;
+}
+.service-area .section-description p {
+    width: 60%;
+}
+/* about-area*/
+.about-right {
+    text-align: center;
+    padding: 75px 0 0 0;
+}
+.about-right-thumb {
+    position: relative;
+    right: inherit;
+}
+.about-right-thumb img {
+    width: 100%;
+}
+.section-description p {
+    width: 50%;
+}
+@keyframes offer-up-down{
+  0% { left:-50px; top:225px;}
+  100% { left:-50px; top:240px;}
+}
+/* brand-area-start */
+.brand-area {
+    width: 950px;
+}
+/* working-area-start */
+.work-title-shape-thumb1 {
+    position: absolute;
+    left: 83px;
+    bottom: -52px;
+}
+.work-title-shape-thumb2 {
+    position: absolute;
+    right: 80px;
+    bottom: -106px;
+}
+/* portfolio-area-start */
+.portfolio-area {
+    width: 770px;
+}
+.portfolio-area .section-description p {
+    width: 70%;
+}
+.portfolio-inner {
+    right: 11px;
+}
+/* testimonial-area-start */
+.testi-content p {
+    font-size: 15px;
+}
+/* blog-area-start */
+.blog-area .section-description p {
+    width: 55%;
+}
+.blog-details-inner p {
+    font-size: 15px;
+}
+.blog-list-left input[type="email"] {
+    width: 71% !important;
+}
+/* contact area start */
+.contact-address {
+    padding: 70px 0px 35px 20px;
+}
+.contact-icon i {
+    font-size: 35px;
+    height: 42px;
+    width: 42px;
+    padding-right: 10px;
+}
+.contact-inner .description p {
+    font-size: 14px;
+}
+/* faq-area-start */
+.faq-single-thumb.img-animation img {
+    width: 100%;
+}
+/* footer-area-start */
+.widge-link ul li {
+    margin-bottom: 12px;
+}
+.form-field input {
+    padding: 5px 17px 5px 10px;
+}
+
+
+}
+
+/* small mobile :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+/* hero-section */
+.hero-section {
+    padding: 80px 0 120px 0;
+}
+.hero-title h1 {
+    font-size: 38px;
+}
+.hero-thumb img {
+    width: 100%;
+}
+.hero-right-thumb img {
+    width: 130%;
+}
+.hero-right-thumb {
+    top: -60px;
+}
+.hero-content {
+    right: -30px;
+}
+.hero-thumb2 {
+    top: 165px;
+    right: 8px;
+}
+.hero-form-field button {
+    padding: 0 10px 0 10px;
+}
+.hero-form-field input {
+    padding: 5px 140px 5px 20px;
+}
+/* service-area-start */
+.section-main-title h1 {
+    font-size: 35px;
+}
+.service-area .section-description p {
+    width: 78%;
+}
+/* about-area-start */
+.about-left-thumb {
+    position: absolute;
+    bottom: -75px;
+    right: -25px;
+    z-index: -1;
+}
+.about-right {
+    text-align: center;
+    padding: 75px 0 0 0;
+}
+.about-right-thumb {
+    position: relative;
+    right: inherit;
+}
+.about-right-thumb img {
+    width: 100%;
+}
+@keyframes offer-up-down{
+  0% { left:-35px; top:150px;}
+  100% { left:-35px; top:170px;}
+}
+/* brand-area-start */
+.brand-area {
+    width: 740px;
+}
+.brand-thumb.five {
+    text-align: center;
+}
+.brand-thumb.seven {
+    text-align: center;
+}
+/* work-area-start */
+.section-description p {
+    width: 70%;
+}
+.work-title-shape-thumb1 {
+    display: none;
+}
+.work-title-shape-thumb2 {
+    display: none;
+}
+/* portfolio-area-start */
+.portfolio-area {
+    width: 580px;
+}
+.portfolio-area .section-description p {
+    width: 80%;
+}
+.portfolio-inner {
+    display: none;
+}
+/* testimonial-area-start */
+.single-testimonial {
+    height: 335px;
+}
+.testi-content p {
+    font-size: 14px;
+}
+.reviews-rating {
+    top: 48px;
+    right: 0;
+}
+.testi-star i.active {
+    font-size: 14px;
+    margin: 0;
+}
+/* blog-area-start */
+.blog-area .section-description p {
+    width: 70%;
+}
+.blog-description p {
+    font-size: 14px;
+}
+.blog-area .owl-nav {
+    display:none;
+}
+/* blog details area start */
+.comment-area .input-button {
+	margin-bottom: 60px;
+}
+.blog-list-left input[type="submit"] {
+    padding: 8px 45px;
+}
+.recent-post-thumb {
+    margin-right: 25px;
+    width: inherit;
+}
+.all-date {
+    width: 63%;
+    margin: 0 0 0 6px;
+}
+/* contact area start */
+.contact-title {
+    padding: 40px 0 0 0;
+}
+/* call-area-start */
+.call-input input {
+    width: 600px;
+    margin: 0 0 20px 0;
+}
+button.call-submit-button {
+    margin-top: 10px;
+    font-size: 16px;
+}
+/* faq-area-start */
+.faq-area .section-description p {
+    width: 85%;
+}
+.faq-single-thumb.img-animation {
+    padding-top: 40px;
+    width: 100%;
+    margin: auto;
+}
+.faq-single-thumb.img-animation img {
+    width: 90%;
+}
+/* footer-area-start */
+.form-field input {
+    padding: 5px 8px 5px 20px;
+    width: 75%;
+}
+.footer-area input[type="email"]:focus {
+    width: 75%;
+}
+.single-widget.upper {
+    padding-left: 0;
+}
+.copyright-area {
+    margin-top: 40px;
+}
+
+}
+/* small mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+
+/* hero-section-start */
+.hero-section {
+    padding: 80px 0 120px 0;
+}
+.hero-title h1 {
+    font-size: 36px;
+}
+.hero-right-thumb {
+    top: 10px;
+}
+.hero-right-thumb img {
+    width: 100%;
+    height: 400px;
+}
+.hero-section-right {
+    padding: 35px 0 0 0;
+}
+.hero-content {
+    right: 0;
+}
+.hero-thumb2 {
+    top: 270px;
+    right: 30px;
+}
+.hero-form-field button {
+    padding: 0 30px 0 30px;
+}
+.hero-form-field input {
+    padding: 5px 185px 5px 20px;
+}
+/* service-area-start */
+.section-main-title h1 {
+    font-size: 35px;
+}
+.service-area .section-description p {
+    width: 100%;
+}
+/* about-area-start */
+.about-left-thumb {
+    position: absolute;
+    bottom: -75px;
+    right: 0;
+    z-index: -1;
+}
+.about-right {
+    text-align: center;
+    padding: 75px 0 0 0;
+}
+.about-right-thumb {
+    position: relative;
+    right: inherit;
+}
+.about-right-thumb img {
+    width: 85%;
+}
+@keyframes offer-up-down{
+  0% { left:-50px; top:210px;}
+  100% { left:-50px; top:230px;}
+}
+/* brand-area-start */
+.brand-area {
+    width:580px;
+}
+.brand-thumb.five {
+    text-align: center;
+}
+.brand-thumb.seven {
+    text-align: center;
+}
+/* work-area-start */
+.section-description p {
+    width: 85%;
+}
+.work-title-shape-thumb1 {
+    display: none;
+}
+.work-title-shape-thumb2 {
+    display: none;
+}
+.work-description p {
+    font-size: 14px;
+}
+/* portfolio-area-start */
+.portfolio-area {
+    width:420px;
+}
+.portfolio-area .section-description p {
+    width: 100%;
+}
+.portfolio-inner {
+    display: none;
+}
+/* testimonial-area-start */
+.testimonial-area .owl-nav {
+    display: none;
+}
+/* counter-area-start */
+.counter-title h2 {
+    font-size: 40px;
+}
+/* blog-area-start */
+.blog-area .section-description p {
+    width: 95%;
+}
+.blog-description p {
+    font-size: 16px;
+}
+.blog-area .owl-nav {
+    display:none;
+}
+/* blog details area start */
+.blog-area.blog-grid .blog-meta span::before {
+	left: -15px;
+}
+.blog-details-inner h3 {
+	font-size: 24px;
+}
+.comment-area .input-button {
+	margin-bottom: 60px;
+}
+.blog-form-field {
+	width: 90%;
+}
+.blog-list-left input[type="submit"] {
+	padding: 8px 37px;
+}
+.recent-post-thumb {
+	margin-right: 30px;
+	width: auto;
+}
+p.blog-submit-button {
+	right: -45px;
+}
+.blog-area .section-description p {
+	width: 80%;
+}
+.all-date {
+	width: 80%;
+	margin: 0 0 0 3px;
+}
+/* contact area start */
+.contact-title {
+    padding: 40px 0 0 0;
+}
+/* call-area-start */
+.call-area {
+    padding: 80px 0;
+}
+.call-input input {
+    height: 60px;
+    width: 500px;
+    margin: 0 0 20px 0;
+}
+button.call-submit-button {
+    height: 60px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+/* faq-area-start */
+.faq-area .section-description p {
+    width: 100%;
+}
+.faq-single-thumb.img-animation {
+    padding-top: 40px;
+    width: 100%;
+    margin: auto;
+}
+.faq-single-thumb.img-animation img {
+    width: 90%;
+}
+/* footer-area-start */
+.widget-title {
+    padding: 30px 0 0 0;
+}
+.form-field input {
+    width: 100%;
+    padding: 5px 120px 5px 20px;
+}
+.footer-area input[type="email"]:focus {
+    width: 100%;
+}
+.single-widget.upper {
+    padding-left: 0;
+}
+.copyright-area {
+    margin-top: 40px;
+}
+#scrollUp {
+    bottom: 20px;
+    font-size: 27px;
+    right: 25px;
+}
+
+}
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+
+/* hero-section-start */
+.hero-section {
+    padding: 80px 0 100px 0;
+}
+.hero-thumb img {
+    width: 100%;
+}
+.hero-thumb2.rotateme img {
+    width: 80%;
+}
+.hero-thumb3 {
+    bottom: 30px;
+    left: 25px;
+}
+.hero-thumb3 img {
+    width: 70%;
+}
+.hero-title h1 {
+    font-size: 30px;
+}
+.hero-right-thumb {
+    top: 10px;
+}
+.hero-right-thumb img {
+    width: 100%;
+    height: 400px;
+}
+.hero-section-right {
+    padding: 35px 0 0 0;
+}
+.hero-content {
+    right: 0;
+}
+.hero-thumb2 {
+    top: 155px;
+    right: 10px;
+}
+.hero-form-field button {
+    padding: 0 10px 0 10px;
+}
+.hero-form-field input {
+    font-size: 15px;
+    height: 55px;
+    padding: 5px 115px 5px 10px;
+}
+.hero-form-field .submit-button {
+    height: 47px;
+}
+.hero-form-field button {
+    font-size: 13px;
+}
+.hero-form-field input::placeholder {
+    color: #616161;
+	font-size:13px;
+}
+/* service-area-start */
+.service-area {
+    padding: 80px 0 50px 0;
+}
+.section-main-title h1 {
+    font-size: 28px;
+    line-height: 38px;
+}
+.service-area .section-description p {
+    width: 100%;
+}
+/* about-area-start */
+.about-us-area {
+    padding: 80px 0 80px 0;
+}
+.about-left-thumb {
+    position: absolute;
+    top: -35px;
+    left: 0;
+    z-index: -1;
+}
+.about-left-thumb img {
+    width: 115%;
+}
+.zomia-button a {
+    font-size: 15px;
+    padding: 12px 35px;
+}
+.about-right {
+    text-align: center;
+    padding: 35px 0 0 0;
+}
+.about-right-thumb {
+    right: 0;
+}
+.about-right-thumb img {
+    width: 95%;
+}
+.about-offer-thumb.offer-img-animation img {
+    width: 13%;
+}
+@keyframes offer-up-down{
+  0% { left:-40px; top:90px;}
+  100% { left:-40px; top:110px;}
+}
+/* brand-area-start */
+.brand-area {
+    width:300px;
+}
+.brand-thumb.five {
+    text-align: center;
+}
+.brand-thumb.seven {
+    text-align: center;
+}
+/* work-area-start */
+.working-area {
+    padding: 230px 0 20px 0;
+}
+.work-title-thumb {
+    top: -80px;
+}
+.working-area.service {
+    padding: 80px 0 20px 0;
+}
+.section-description p {
+    width: 100%;
+    font-size: 15px;
+}
+.work-title-shape-thumb1 {
+    display: none;
+}
+.work-title-shape-thumb2 {
+    display: none;
+}
+.work-description p {
+    font-size: 14px;
+}
+/* portfolio-area-start */
+.portfolio-area {
+    padding: 80px 0;
+}
+.portfolio-area {
+    width:300px;
+}
+.portfolio-area .section-description p {
+    width: 100%;
+}
+.portfolio-inner {
+    display: none;
+}
+.portfolio-thumb img {
+    width: 270px;
+    height: 340px;
+}
+.owl-prev {
+    padding: 8px 11px 4px 10px;
+}
+.owl-next {
+    padding: 8px 11px 4px 10px;
+}
+.owl-prev i {
+    font-size: 16px;
+}
+.owl-next i {
+    font-size: 16px;
+}
+/* testimonial-area-start */
+.testimonial-area {
+    padding: 80px 0 200px 0;
+}
+.single-testimonial {
+    height: 335px;
+	padding: 72px 25px 0 25px;
+}
+.testi-content p {
+    font-size: 14px;
+}
+.reviews-rating {
+    top: 48px;
+    right: -10px;
+}
+.testi-star i.active {
+    font-size: 14px;
+    margin: 0;
+}
+.testimonial-area .owl-nav {
+    display: none;
+}
+/* counter-area-start */
+.counter-title h2 {
+    font-size: 35px;
+}
+/* blog-area-start */
+.blog-area {
+    padding: 50px 0 35px 0;
+}
+.blog-area .section-description p {
+    width: 100%;
+}
+.blog-title h3 {
+    font-size: 18px;
+}
+.blog-description p {
+    font-size: 14px;
+}
+.blog-area .owl-nav {
+    display:none;
+}
+p.date-number {
+    font-size: 16px;
+}
+p.date-month {
+    font-size: 15px;
+    line-height: 17px;
+}
+/* faq area start */
+.faq-area {
+	padding: 85px 0px 50px 0px;
+}
+.faq-area .section-description p {
+	width: 100%;
+}
+.faq-single-thumb.img-animation img {
+	width: 100%;
+}
+.faq-single-thumb.img-animation {
+	padding-top: 30px;
+	width: 100%;
+	margin: auto;
+}
+.faq-area .accordion a {
+	font-size: 17px;
+	text-indent: 0;
+	width: 100%;
+	padding: 15px 50px 15px 15px;
+}
+.faq-area .accordion li a.active {
+	padding: 15px 60px 0 10px;
+	font-size: 17px;
+}
+.faq-area .accordion p {
+    font-size: 15px;
+}
+ul.accordion li a.active i {
+	transform: rotate(90deg);
+	right: 24px;
+	top: 15px;
+}
+ul.accordion li a.active::before {
+    left: 10px;
+}
+/* blog details area start */
+.single-blog-details .blog-content {
+	padding: 38px 20px 45px;
+}
+a.blog-comment {
+	display: none;
+}
+.blog-form-field {
+	width: 90%;
+}
+.blog-list-left input[type="submit"] {
+	padding: 8px 15px;
+}
+.recent-post-thumb {
+	margin-right: 20px;
+	width: auto;
+}
+p.blog-submit-button {
+	right: -27px;
+}
+.blog-details-inner p {
+    text-align: justify;
+    font-size: 14px;
+}
+.single-blog-list.single-blog-details .blog-meta span::before {
+	display:none;
+}
+.blog-calender td {
+	padding: 5px 7px;
+}
+.blog-list-left {
+	padding: 35px 20px 35px;
+}
+.blog-list-left input[type="email"] {
+	width: 72% !important;
+}
+.blog-meta-date {
+	bottom: -28px;
+	right: 20px;
+	padding: 4px 10px 8px 10px;
+	box-shadow: 0 10px 60px #0003;
+}
+.blog-area .section-description p {
+	width: 100%;
+}
+.blog-area.project-area .blog-meta span {
+	margin-right: 18px;
+}
+.blog-area.project-area .blog-meta a {
+	margin: 0 0 0 8px;
+}
+.blog-meta span::before {
+	right: -20px;
+}
+.blog-area.about-us .blog-meta span {
+	margin-right: 18px;
+}
+.blog-area.about-us .blog-meta a {
+	margin: 0 0 0 8px;
+}
+.blog-details-inner h3 {
+	font-size: 24px;
+	margin: 17px 0 10px 0;
+}
+.comment-area .input-button {
+	margin-bottom: 60px;
+}
+.blog-dtls-desc {
+	padding: 1px 15px 12px;
+	font-size: 18px;
+}
+.blog-details-inner h3 {
+    font-size: 20px;
+}
+.blog-details-social-icon a i {
+    margin: 5px 10px 5px 10px;
+}
+.blog-details-social-icon {
+    padding-top: 30px;
+    margin-top: 30px;
+}
+.comment-area .input-button button {
+    padding: 12px 30px;
+}
+/* contact area start */
+.contact-address {
+    padding: 50px 0px 15px 10px;
+}
+.contact-icon i {
+    font-size: 35px;
+    padding-right: 12px;
+}
+.contact-title h2 {
+    font-size: 28px;
+}
+.input-box textarea {
+    height: 120px;
+}
+.contact-title {
+    padding: 40px 0 0 0;
+}
+.contact-area {
+    padding: 0 0 80px 0;
+}
+.contact-section {
+    padding: 25px 10px 25px 10px;
+}
+/* call-area-start */
+.call-area {
+    padding: 80px 0;
+}
+.call-input input {
+    height: 50px;
+    width: 250px;
+    margin: 0 0 20px 0;
+}
+button.call-submit-button {
+    height: 50px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+/* footer-area-start */
+.widget-title {
+    padding: 30px 0 0 0;
+}
+.form-field input {
+    width: 100%;
+    padding: 5px 120px 5px 20px;
+}
+.footer-area input[type="email"]:focus {
+    width: 100%;
+}
+.single-widget.upper {
+    padding-left: 0;
+}
+.copyright-area {
+    margin-top: 40px;
+}
+#scrollUp {
+    bottom: 20px;
+    font-size: 27px;
+    right: 10px;
+}
+.breatcome-area {
+    padding: 120px 0 120px 0;
+}
+.breatcome-title h1 {
+    font-size: 32px;
+	margin-bottom: 20px;
+}
+.breatcome-text ul li a {
+    font-size: 14px;
+}
+.breatcome-text ul li span {
+    font-size: 14px;
+}
+.mobile-menu-logo.text-center {
+    padding: 12px 0;
+}
+
+}
+
+/* small mobile :280px. */
+@media only screen and (min-width: 280px) and (max-width: 319px) {
+
+/* hero-section-start */
+.hero-section {
+    padding: 80px 0 90px 0;
+}
+.hero-thumb img {
+    width: 100%;
+}
+.hero-thumb2.rotateme img {
+    width: 70%;
+}
+.hero-thumb3 {
+    bottom: 30px;
+    left: 25px;
+}
+.hero-thumb3 img {
+    width: 60%;
+}
+.hero-title h1 {
+    font-size: 25px;
+}
+.hero-description p {
+    font-size: 15px;
+}
+.hero-right-thumb {
+    top: 10px;
+}
+.hero-right-thumb img {
+    width: 100%;
+    height: 400px;
+}
+.hero-section-right {
+    padding: 35px 0 0 0;
+}
+.hero-content {
+    right: 0;
+}
+.hero-thumb2 {
+    top: 122px;
+    right: 8px;
+}
+.hero-form-field button {
+    padding: 0 10px 0 10px;
+}
+.hero-form-field input {
+    font-size: 15px;
+    height: 55px;
+    padding: 5px 115px 5px 10px;
+}
+.hero-form-field .submit-button {
+    height: 47px;
+}
+.hero-form-field button {
+    font-size: 13px;
+}
+.hero-form-field input::placeholder {
+    color: #616161;
+	font-size:13px;
+}
+/* service-area-start */
+.service-area {
+    padding: 80px 0 50px 0;
+}
+.section-sub-title h3 {
+    font-size: 15px;
+}
+.section-main-title h1 {
+    font-size: 25px;
+    line-height: 35px;
+}
+.service-description p {
+    font-size: 15px;
+}
+.service-area .section-description p {
+    width: 100%;
+    font-size: 15px;
+}
+/* about-area-start */
+.about-us-area {
+    padding: 80px 0 80px 0;
+}
+.section-description p {
+    width: 100%;
+}
+.about-left-thumb {
+    position: absolute;
+    top: -25px;
+    left: 0;
+    z-index: -1;
+}
+.about-left-thumb img {
+    width: 100%;
+}
+.zomia-button a {
+    font-size: 15px;
+    padding: 12px 35px;
+}
+.about-right {
+    text-align: center;
+    padding: 35px 0 0 0;
+}
+.about-right-thumb {
+    right: 0;
+}
+.about-right-thumb img {
+    width: 95%;
+}
+.about-offer-thumb.offer-img-animation img {
+    width: 12%;
+}
+@keyframes offer-up-down{
+  0% { left:-35px; top:85px;}
+  100% { left:-35px; top:100px;}
+}
+/* brand-area-start */
+.brand-area {
+    width:260px;
+}
+.brand-thumb.five {
+    text-align: center;
+}
+.brand-thumb.seven {
+    text-align: center;
+}
+/* work-area-start */
+.working-area {
+    padding: 230px 0 20px 0;
+}
+.work-title-thumb {
+    top: -80px;
+}
+.working-area.service {
+    padding: 80px 0 20px 0;
+}
+.section-description p {
+    width: 100%;
+    font-size: 15px;
+}
+.work-title-shape-thumb1 {
+    display: none;
+}
+.work-title-shape-thumb2 {
+    display: none;
+}
+.work-description p {
+    font-size: 14px;
+}
+/* portfolio-area-start */
+.portfolio-area {
+    padding: 80px 0;
+}
+.portfolio-area {
+    width:260px;
+}
+.portfolio-area .section-description p {
+    width: 100%;
+}
+.portfolio-inner {
+    display: none;
+}
+.portfolio-thumb img {
+    width: 240px;
+    height: 300px;
+}
+.owl-prev {
+    padding: 8px 11px 4px 10px;
+}
+.owl-next {
+    padding: 8px 11px 4px 10px;
+}
+.owl-prev i {
+    font-size: 16px;
+}
+.owl-next i {
+    font-size: 16px;
+}
+/* testimonial-area-start */
+.testimonial-area {
+    padding: 80px 0 200px 0;
+}
+.single-testimonial {
+    height: 335px;
+	padding: 72px 15px 0 15px;
+}
+.testi-content p {
+    font-size: 13px;
+}
+.reviews-rating {
+    top: 48px;
+    right: -10px;
+}
+.testi-star i.active {
+    font-size: 14px;
+    margin: 0;
+}
+.testimonial-area .owl-nav {
+    display: none;
+}
+/* counter-area-start */
+.counter-title h2 {
+    font-size: 35px;
+}
+/* blog-area-start */
+.blog-area {
+    padding: 50px 0 35px 0;
+}
+.blog-area .section-description p {
+    width: 100%;
+}
+.blog-title h3 {
+    font-size: 18px;
+}
+.blog-description p {
+    font-size: 14px;
+}
+.blog-area .owl-nav {
+    display:none;
+}
+p.date-number {
+    font-size: 16px;
+}
+p.date-month {
+    font-size: 15px;
+    line-height: 17px;
+}
+/* faq area start */
+.faq-area {
+	padding: 85px 0px 50px 0px;
+}
+.faq-area .section-description p {
+	width: 100%;
+}
+.faq-single-thumb.img-animation img {
+	width: 100%;
+}
+.faq-single-thumb.img-animation {
+	padding-top: 30px;
+	width: 100%;
+	margin: auto;
+}
+.faq-area .accordion a {
+	font-size: 16px;
+	text-indent: 0;
+	width: 100%;
+	padding: 15px 50px 15px 15px;
+}
+.faq-area .accordion p {
+    font-size: 15px;
+}
+.faq-area .accordion li a.active {
+	padding: 15px 60px 0 10px;
+	font-size: 17px;
+}
+ul.accordion li a.active i {
+	transform: rotate(90deg);
+	right: 24px;
+	top: 15px;
+}
+ul.accordion li a.active::before {
+    left: 10px;
+}
+/* blog area start */
+.breatcome-area {
+    padding: 120px 0 120px 0;
+}
+.breatcome-title h1 {
+    font-size: 30px;
+}
+.breatcome-text ul li a {
+    font-size: 14px;
+}
+.breatcome-text ul li span {
+    font-size: 14px;
+}
+.single-blog-details .blog-content {
+	padding: 38px 20px 45px;
+}
+a.blog-comment {
+	display: none;
+}
+.blog-form-field {
+	width: 90%;
+}
+.blog-list-left input[type="submit"] {
+	padding: 8px 13px;
+}
+.recent-post-thumb {
+	margin-right: 20px;
+	width: auto;
+}
+p.blog-submit-button {
+	right: -27px;
+}
+.blog-calender td {
+	padding: 5px 0;
+}
+.blog-list-left {
+	padding: 35px 20px 35px;
+}
+.blog-list-left input[type="email"] {
+	width: 68% !important;
+}
+.blog-calender {
+	padding: 35px 15px 35px 15px;
+}
+.single-blog-list {
+	padding: 35px 15px 10px;
+}
+.blog-dtls-desc {
+	padding: 2px 10px 12px;
+	font-size: 17px;
+}
+.blog-area .section-description p {
+	width: 100%;
+}
+.blog-meta-date {
+	bottom: -28px;
+	right: 20px;
+	padding: 4px 10px 8px 10px;
+	box-shadow: 0 10px 60px #0003;
+}
+.blog-area.project-area .blog-meta span {
+	margin-right: 18px;
+}
+.blog-area.project-area .blog-meta a {
+	margin: 0;
+}
+.blog-meta span::before {
+	display: none;
+}
+.blog-details-inner h3 {
+    font-size: 20px;
+}
+.blog-details-social-icon a i {
+    margin: 5px 10px 5px 10px;
+}
+.blog-details-social-icon {
+    padding-top: 30px;
+    margin-top: 30px;
+}
+.comment-area .input-button {
+    margin-bottom: 60px;
+}
+.comment-area .input-button button {
+    padding: 12px 30px;
+}
+/* contact area start */
+.contact-address {
+    padding: 50px 0px 15px 10px;
+}
+.contact-icon i {
+    font-size: 30px;
+    padding-right: 8px;
+}
+.contact-title h2 {
+    font-size: 25px;
+}
+.contact-inner .description p {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+.input-box textarea {
+    height: 120px;
+}
+.contact-title {
+    padding: 40px 0 0 0;
+}
+.contact-area {
+    padding: 0 0 80px 0;
+}
+.contact-section {
+    padding: 25px 10px 25px 10px;
+}
+/* call-area-start */
+.call-area {
+    padding: 80px 0;
+}
+.call-input input {
+    height: 50px;
+    width: 244px;
+    margin: 0 0 20px 0;
+}
+button.call-submit-button {
+    height: 50px;
+    margin-top: 10px;
+    font-size: 14px;
+}
+/* footer-area-start */
+.widget-title {
+    padding: 30px 0 0 0;
+}
+.form-field input {
+    width: 100%;
+    padding: 5px 120px 5px 20px;
+}
+.footer-area input[type="email"]:focus {
+    width: 100%;
+}
+.single-widget.upper {
+    padding-left: 0;
+}
+.copyright-area {
+    margin-top: 40px;
+}
+.form-field button {
+    font-size: 15px;
+}
+#scrollUp {
+    bottom: 20px;
+    font-size: 27px;
+    right: 10px;
+}
+
+
+}
